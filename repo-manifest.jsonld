@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2025-lfqa-hallucination/commit/4fc6162d569a8df5418df04c08810f4205f1eb37",
       "git:hexsha": "4fc6162d569a8df5418df04c08810f4205f1eb37",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
